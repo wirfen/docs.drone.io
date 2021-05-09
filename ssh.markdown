@@ -72,6 +72,3 @@ destination server that do not exist in your repository directory will be
 In some cases, this behavior might not be desired. As a workaround, we recommend
 pushing to a /tmp directory on your remote server, and then copying the files
 to the appropriate destination directory.
-
-
-
